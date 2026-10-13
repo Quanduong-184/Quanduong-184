@@ -19,6 +19,7 @@ Education, research experience, and awards follow the supplied CV.
 <p align="center">
   <a href="#about-me">About me</a> &nbsp; · &nbsp;
   <a href="#current-focus">Current focus</a> &nbsp; · &nbsp;
+  <a href="#research--publications">Research &amp; Publications</a> &nbsp; · &nbsp;
   <a href="#honors--awards">Honors &amp; Awards</a> &nbsp; · &nbsp;
   <a href="#research-questions">Research questions</a> &nbsp; · &nbsp;
   <a href="#working-set">Working set</a>
@@ -95,6 +96,28 @@ A concise description of the problem and the implemented solution.
 **Resources:** [Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY) · [Demo](https://YOUR_DEMO_URL)
 -->
 
+## Research & Publications
+
+### Representation-Aware Knowledge Distillation for Efficient Malware Family Classification
+
+**Team lead & First Author** · University of Science, VNU-HCM · 2026
+
+**Publication status:** To appear, MAPR 2026.
+
+Investigated malware family classification from visual representations using transfer learning and knowledge distillation. Developed and evaluated three malware representations and documented the approach in a first-authored paper.
+
+**Tools & methods:** Python · PyTorch · Malware Visualization · Transfer Learning · Knowledge Distillation
+
+### VidQuest: Interactive Multimodal Video Retrieval with Context-Aware Temporal Alignment
+
+**Co-first Author** · 2026
+
+**Publication status:** Under review, MMM 2027.
+
+Developed interactive retrieval for ordered events within the same video by combining visual, caption, OCR, and transcript evidence. The system combines context-guided candidate recovery, temporal alignment, and event-level feedback, reaching **82.50% Sequence Success@1 on an internal 40-query validation set**.
+
+**Tools & methods:** SigLIP2 · BGE · FAISS · BM25 · OCR · ASR · Temporal Alignment
+
 ## Honors & Awards
 
 | Year | Achievement |
@@ -115,9 +138,17 @@ A concise description of the problem and the implemented solution.
 
 ## Working set
 
-**AI & experimentation** &nbsp; Python · PyTorch  
-**Software development** &nbsp; C++ · JavaScript / TypeScript · FastAPI · Docker  
-**Documentation & version control** &nbsp; LaTeX · Git
+Tools and methods used across my research and software projects.
+
+| Area | Working set |
+| :--- | :--- |
+| Programming | Python · C/C++ · SQL · JavaScript / TypeScript · HTML · CSS |
+| Data & scientific computing | NumPy · Pandas · SciPy · Matplotlib |
+| Vision & deep learning | PyTorch · OpenCV · Pillow · timm · Transfer Learning · Knowledge Distillation |
+| Language & vision-language models | Sentence-Transformers · DeBERTa-v3 · Qwen2.5-VL · QLoRA · Visual Question Answering · Video Captioning |
+| Multimodal retrieval | SigLIP2 · BGE · FAISS · BM25 · OCR · ASR · Temporal Alignment |
+| Model evaluation & ensembling | Ordinal Regression · Out-of-Fold Calibration · Rank Blending · Distribution-Preserving Ensembles |
+| Systems & applications | FastAPI · REST APIs · Docker · React · WebSocket · TCP/IP · Boost.Asio · Boost.Beast · WinAPI |
 
 <details>
 <summary><strong>What I look for in a research implementation</strong></summary>
