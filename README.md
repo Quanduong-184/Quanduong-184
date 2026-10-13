@@ -17,6 +17,7 @@ No project results, publications, affiliations, or contribution counts are assum
 </p>
 
 <p align="center">
+  <a href="#about-me">About me</a> &nbsp; · &nbsp;
   <a href="#current-focus">Current focus</a> &nbsp; · &nbsp;
   <a href="#research-questions">Research questions</a> &nbsp; · &nbsp;
   <a href="#working-set">Working set</a>
@@ -32,31 +33,45 @@ No project results, publications, affiliations, or contribution counts are assum
 
 ---
 
-## Turning research questions into experiments
+## About me
 
-I'm Minh-Quan Duong. My interests lie in computer vision, vision-language models, and efficient inference. I explore how models represent visual information, which information matters for a task, and how to reduce computation while preserving useful capabilities.
+I'm Minh-Quan Duong, with interests in Computer Vision, Multimodal AI, and AI Engineering. I enjoy reading research papers, exploring new ideas through experiments, and building practical applications that connect AI research with everyday needs.
 
-Alongside AI, I work on Android applications and study the software foundations behind reliable implementations: algorithms, object-oriented design, and operating systems.
+My current research interests center on efficient visual representations, vision-language models, and generative modeling. I'm especially interested in how models select and process visual information, and how to make them more efficient while preserving their capabilities.
+
+Alongside AI, I develop Android applications and strengthen my foundations in algorithms, C++, object-oriented design, and operating systems. I value clear implementations, reproducible experiments, and careful evaluation.
 
 ## Current focus
 
-### 01 / Efficient multimodal learning
+### 01 / Computer Vision
 
-Studying visual token compression and adaptive token selection in vision-language models, with attention to the balance between task performance, token budgets, and inference cost.
+Exploring visual representation learning and image understanding, with an interest in connecting visual features to downstream tasks.
 
-`Visual token compression` `Adaptive selection` `Vision-language models`
+`Computer Vision` `Deep Learning` `Visual Representation Learning` `Image Understanding` `Image Classification` `Object Detection` `Image Segmentation` `Self-Supervised Learning`
 
-### 02 / Generative modeling
+### 02 / Efficient multimodal learning
 
-Exploring diffusion models and flow matching, including their training objectives, sampling procedures, and opportunities for more efficient image generation.
+Studying visual token compression and adaptive token selection in vision-language models, with attention to task performance, token budgets, and inference cost.
 
-`Diffusion models` `Flow matching` `Image generation`
+`Multimodal AI` `Vision-Language Models` `Multimodal Large Language Models` `Visual Token Compression` `Adaptive Token Selection` `Efficient Inference` `Model Compression` `Visual Question Answering`
 
-### 03 / Applied AI & software development
+### 03 / Generative modeling
 
-Exploring how AI can support useful Android applications, while developing a stronger foundation in C++ and software design.
+Exploring diffusion models and flow matching, including their training objectives, sampling procedures, and opportunities for more efficient visual generation.
 
-`Android` `C++` `Practical AI applications`
+`Generative AI` `Diffusion Models` `Flow Matching` `Image Generation` `Video Generation` `Conditional Generation` `Efficient Sampling`
+
+### 04 / AI Engineering
+
+Developing the skills to turn model experiments into useful applications, from data preparation and evaluation to inference pipelines and deployment.
+
+`AI Engineering` `Data Pipelines` `Model Evaluation` `Inference Optimization` `Model Deployment` `MLOps` `Reproducible Experiments` `Applied Machine Learning`
+
+### 05 / Applied AI & software development
+
+Exploring AI-powered Android applications while building a stronger foundation in reliable software design and implementation.
+
+`Android Development` `Mobile AI` `Edge AI` `C++` `Algorithms & Data Structures` `Object-Oriented Programming` `Software Engineering`
 
 <!-- SELECTED WORK
 Place this section above Research questions after adding real repositories.
@@ -117,8 +132,3 @@ Add confirmed details and references; do not invent an award level or publicatio
 - **Paper title** — Authors. Venue, year. [Paper](https://YOUR_PAPER_URL) · [Code](https://YOUR_CODE_URL)
 -->
 
----
-
-**Let's compare ideas.** I'm interested in discussions about multimodal efficiency, computer vision, and practical AI applications.
-
-**Contact:** [duongquan301@gmail.com](mailto:duongquan301@gmail.com)
