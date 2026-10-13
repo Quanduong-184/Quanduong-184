@@ -4,7 +4,7 @@ Upload README.md and the assets/ folder together to your profile repository.
 The displayed banner is assets/profile-header.gif (90 frames, a 5.4-second loop).
 The editable vector source is assets/profile-header.svg; changing the source requires re-rendering the GIF.
 Contact links and the CV PDF are configured. Add real project links in the commented sections below.
-No project results, publications, affiliations, or contribution counts are assumed.
+Education, research experience, and awards follow the supplied CV.
 -->
 
 <p align="center">
@@ -19,6 +19,7 @@ No project results, publications, affiliations, or contribution counts are assum
 <p align="center">
   <a href="#about-me">About me</a> &nbsp; · &nbsp;
   <a href="#current-focus">Current focus</a> &nbsp; · &nbsp;
+  <a href="#honors--awards">Honors &amp; Awards</a> &nbsp; · &nbsp;
   <a href="#research-questions">Research questions</a> &nbsp; · &nbsp;
   <a href="#working-set">Working set</a>
 </p>
@@ -35,11 +36,9 @@ No project results, publications, affiliations, or contribution counts are assum
 
 ## About me
 
-I'm Minh-Quan Duong, with interests in Computer Vision, Multimodal AI, and AI Engineering. I enjoy reading research papers, exploring new ideas through experiments, and building practical applications that connect AI research with everyday needs.
+I'm Minh-Quan Duong, an undergraduate student in the Information Technology Honors Program at the University of Science, VNU-HCM. My interests lie in Computer Vision, Multimodal AI, and AI Engineering, with a focus on vision-language models, visual representation learning, and efficient inference.
 
-My current research interests center on efficient visual representations, vision-language models, and generative modeling. I'm especially interested in how models select and process visual information, and how to make them more efficient while preserving their capabilities.
-
-Alongside AI, I develop Android applications and strengthen my foundations in algorithms, C++, object-oriented design, and operating systems. I value clear implementations, reproducible experiments, and careful evaluation.
+My research experience includes knowledge distillation for visual malware classification and multimodal video retrieval. I enjoy turning research ideas into reproducible experiments and practical systems, supported by a strong foundation in algorithms, C++, and software design.
 
 ## Current focus
 
@@ -69,9 +68,9 @@ Developing the skills to turn model experiments into useful applications, from d
 
 ### 05 / Applied AI & software development
 
-Exploring AI-powered Android applications while building a stronger foundation in reliable software design and implementation.
+Building practical AI systems while strengthening my foundations in reliable software design, networking, and implementation.
 
-`Android Development` `Mobile AI` `Edge AI` `C++` `Algorithms & Data Structures` `Object-Oriented Programming` `Software Engineering`
+`Applied AI` `AI Systems` `C++` `Algorithms & Data Structures` `Object-Oriented Programming` `Software Engineering` `Real-Time Systems`
 
 <!-- SELECTED WORK
 Place this section above Research questions after adding real repositories.
@@ -96,6 +95,16 @@ A concise description of the problem and the implemented solution.
 **Resources:** [Code](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY) · [Demo](https://YOUR_DEMO_URL)
 -->
 
+## Honors & Awards
+
+| Year | Achievement |
+| :--- | :--- |
+| Oct 2026 | **Award Winner, AI Challenge 2026** — Team AGI |
+| Aug 2026 | **15th place on the public leaderboard, AI City Challenge 2026 — Track 2** — Team Adrenaline |
+| Jul 2026 | **Top 2, Final Project DANIT DS 5+6 Competition** — Public leaderboard score: 0.80182 |
+| 2024–2025 | **Faculty of Information Technology Dean's List — Top 1**, University of Science, VNU-HCM |
+| 2024–2025 | **Academic Achievement Scholarship**, University of Science, VNU-HCM |
+
 ## Research questions
 
 | Question | Direction |
@@ -107,7 +116,7 @@ A concise description of the problem and the implemented solution.
 ## Working set
 
 **AI & experimentation** &nbsp; Python · PyTorch  
-**Software development** &nbsp; C++ · Android Studio · XML  
+**Software development** &nbsp; C++ · JavaScript / TypeScript · FastAPI · Docker  
 **Documentation & version control** &nbsp; LaTeX · Git
 
 <details>
@@ -119,16 +128,3 @@ A concise description of the problem and the implemented solution.
 - Code, settings, and limitations that make the result easier to reproduce.
 
 </details>
-
-<!-- RECOGNITION
-Add confirmed details and references; do not invent an award level or publication status.
-
-## Recognition
-
-- **Award name** — Competition, year. Team and placement. [Reference](https://YOUR_REFERENCE_URL)
-
-## Publications
-
-- **Paper title** — Authors. Venue, year. [Paper](https://YOUR_PAPER_URL) · [Code](https://YOUR_CODE_URL)
--->
-
