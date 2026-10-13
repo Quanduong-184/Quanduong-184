@@ -3,7 +3,7 @@ PROFILE SETUP
 Upload README.md and the assets/ folder together to your profile repository.
 The displayed banner is assets/profile-header.gif (90 frames, a 5.4-second loop).
 The editable vector source is assets/profile-header.svg; changing the source requires re-rendering the GIF.
-Contact links are configured. Add real project links in the commented sections below.
+Contact links and the CV PDF are configured. Add real project links in the commented sections below.
 No project results, publications, affiliations, or contribution counts are assumed.
 -->
 
@@ -23,10 +23,11 @@ No project results, publications, affiliations, or contribution counts are assum
 </p>
 
 <p align="center">
-  <a href="mailto:duongquan301@gmail.com">Email</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/minh-quan-duong-7780aa158/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://scholar.google.com/citations?user=tuCiFxAAAAAJ&amp;hl=vi">Google Scholar</a> &nbsp; · &nbsp;
-  <a href="https://orcid.org/0009-0000-9080-8908">ORCID</a>
+  <a href="https://www.linkedin.com/in/minh-quan-duong-7780aa158/"><img src="assets/links/linkedin.svg" alt="LinkedIn — Connect" width="184" height="34" /></a>
+  <a href="mailto:duongquan301@gmail.com"><img src="assets/links/email.svg" alt="Email — Contact" width="150" height="34" /></a>
+  <a href="https://scholar.google.com/citations?user=tuCjFxAAAAAJ&amp;hl=vi"><img src="assets/links/scholar.svg" alt="Google Scholar — Publications" width="216" height="34" /></a>
+  <a href="https://orcid.org/0009-0000-9080-8908"><img src="assets/links/orcid.svg" alt="ORCID — Research record" width="234" height="34" /></a>
+  <a href="assets/CV.pdf"><img src="assets/links/cv.svg" alt="CV — View PDF" width="152" height="34" /></a>
 </p>
 
 ---
