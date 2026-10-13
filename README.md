@@ -21,7 +21,6 @@ Education, research experience, and awards follow the supplied CV.
   <a href="#current-focus">Current focus</a> &nbsp; · &nbsp;
   <a href="#research--publications">Research &amp; Publications</a> &nbsp; · &nbsp;
   <a href="#honors--awards">Honors &amp; Awards</a> &nbsp; · &nbsp;
-  <a href="#research-questions">Research questions</a> &nbsp; · &nbsp;
   <a href="#working-set">Working set</a>
 </p>
 
@@ -74,7 +73,7 @@ Building practical AI systems while strengthening my foundations in reliable sof
 `Applied AI` `AI Systems` `C++` `Algorithms & Data Structures` `Object-Oriented Programming` `Software Engineering` `Real-Time Systems`
 
 <!-- SELECTED WORK
-Place this section above Research questions after adding real repositories.
+Place this section above Research & Publications after adding real repositories.
 Use two or three projects and keep each entry specific to your contribution.
 
 ## Selected work
@@ -98,25 +97,10 @@ A concise description of the problem and the implemented solution.
 
 ## Research & Publications
 
-### Representation-Aware Knowledge Distillation for Efficient Malware Family Classification
-
-**Team lead & First Author** · University of Science, VNU-HCM · 2026
-
-**Publication status:** To appear, MAPR 2026.
-
-Investigated malware family classification from visual representations using transfer learning and knowledge distillation. Developed and evaluated three malware representations and documented the approach in a first-authored paper.
-
-**Tools & methods:** Python · PyTorch · Malware Visualization · Transfer Learning · Knowledge Distillation
-
-### VidQuest: Interactive Multimodal Video Retrieval with Context-Aware Temporal Alignment
-
-**Co-first Author** · 2026
-
-**Publication status:** Under review, MMM 2027.
-
-Developed interactive retrieval for ordered events within the same video by combining visual, caption, OCR, and transcript evidence. The system combines context-guided candidate recovery, temporal alignment, and event-level feedback, reaching **82.50% Sequence Success@1 on an internal 40-query validation set**.
-
-**Tools & methods:** SigLIP2 · BGE · FAISS · BM25 · OCR · ASR · Temporal Alignment
+| Research / Publication | Role | Venue & Status |
+| :--- | :--- | :--- |
+| **Representation-Aware Knowledge Distillation for Efficient Malware Family Classification** | Team lead & First Author | MAPR 2026 · To appear |
+| **VidQuest: Interactive Multimodal Video Retrieval with Context-Aware Temporal Alignment** | Co-first Author | MMM 2027 · Under review |
 
 ## Honors & Awards
 
@@ -127,14 +111,6 @@ Developed interactive retrieval for ordered events within the same video by comb
 | Jul 2026 | **Top 2, Final Project DANIT DS 5+6 Competition** — Public leaderboard score: 0.80182 |
 | 2024–2025 | **Faculty of Information Technology Dean's List — Top 1**, University of Science, VNU-HCM |
 | 2024–2025 | **Academic Achievement Scholarship**, University of Science, VNU-HCM |
-
-## Research questions
-
-| Question | Direction |
-| :--- | :--- |
-| Which visual tokens are necessary for a given task? | Task-aware selection and adaptive compression |
-| How much computation can be removed before performance degrades? | Quality–efficiency trade-offs and inference evaluation |
-| How do diffusion and flow-based models differ in practice? | Objectives, sampling behavior, and computational cost |
 
 ## Working set
 
@@ -149,13 +125,3 @@ Tools and methods used across my research and software projects.
 | Multimodal retrieval | SigLIP2 · BGE · FAISS · BM25 · OCR · ASR · Temporal Alignment |
 | Model evaluation & ensembling | Ordinal Regression · Out-of-Fold Calibration · Rank Blending · Distribution-Preserving Ensembles |
 | Systems & applications | FastAPI · REST APIs · Docker · React · WebSocket · TCP/IP · Boost.Asio · Boost.Beast · WinAPI |
-
-<details>
-<summary><strong>What I look for in a research implementation</strong></summary>
-
-- A clear question and a baseline that makes the comparison meaningful.
-- An explicit account of compute requirements and evaluation conditions.
-- Ablations that help explain why a method works.
-- Code, settings, and limitations that make the result easier to reproduce.
-
-</details>
