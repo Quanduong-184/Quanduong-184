@@ -3,7 +3,7 @@ PROFILE SETUP
 Upload README.md and the assets/ folder together to your profile repository.
 The displayed banner is assets/profile-header.gif (90 frames, a 5.4-second loop).
 The editable vector source is assets/profile-header.svg; changing the source requires re-rendering the GIF.
-Add real project and contact links in the commented sections below.
+Contact links are configured. Add real project links in the commented sections below.
 No project results, publications, affiliations, or contribution counts are assumed.
 -->
 
@@ -22,13 +22,12 @@ No project results, publications, affiliations, or contribution counts are assum
   <a href="#working-set">Working set</a>
 </p>
 
-<!-- Add real contact links here, then remove the comment wrapper.
 <p align="center">
-  <a href="https://YOUR_WEBSITE">Website</a> &nbsp; · &nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+  <a href="mailto:duongquan301@gmail.com">Email</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/minh-quan-duong-7780aa158/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://scholar.google.com/citations?user=tuCiFxAAAAAJ&amp;hl=vi">Google Scholar</a> &nbsp; · &nbsp;
+  <a href="https://orcid.org/0009-0000-9080-8908">ORCID</a>
 </p>
--->
 
 ---
 
@@ -121,4 +120,4 @@ Add confirmed details and references; do not invent an award level or publicatio
 
 **Let's compare ideas.** I'm interested in discussions about multimodal efficiency, computer vision, and practical AI applications.
 
-<!-- Optional contact line: [Email](mailto:YOUR_EMAIL) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/) -->
+**Contact:** [duongquan301@gmail.com](mailto:duongquan301@gmail.com)
