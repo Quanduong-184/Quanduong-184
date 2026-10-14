@@ -42,35 +42,15 @@ My research experience includes knowledge distillation for visual malware classi
 
 ## Current focus
 
-### 01 / Computer Vision
+**Computer Vision** · `Visual Representation Learning` `Self-Supervised Learning`
 
-Exploring visual representation learning and image understanding, with an interest in connecting visual features to downstream tasks.
+**Efficient Multimodal Learning** · `Vision-Language Models` `Visual Token Compression` `Adaptive Token Selection`
 
-`Computer Vision` `Deep Learning` `Visual Representation Learning` `Image Understanding` `Image Classification` `Object Detection` `Image Segmentation` `Self-Supervised Learning`
+**Generative Modeling** · `Diffusion Models` `Flow Matching`
 
-### 02 / Efficient multimodal learning
+**AI Engineering** · `Data Pipelines` `Model Evaluation` `Inference Optimization` `Model Deployment`
 
-Studying visual token compression and adaptive token selection in vision-language models, with attention to task performance, token budgets, and inference cost.
-
-`Multimodal AI` `Vision-Language Models` `Multimodal Large Language Models` `Visual Token Compression` `Adaptive Token Selection` `Efficient Inference` `Model Compression` `Visual Question Answering`
-
-### 03 / Generative modeling
-
-Exploring diffusion models and flow matching, including their training objectives, sampling procedures, and opportunities for more efficient visual generation.
-
-`Generative AI` `Diffusion Models` `Flow Matching` `Image Generation` `Video Generation` `Conditional Generation` `Efficient Sampling`
-
-### 04 / AI Engineering
-
-Developing the skills to turn model experiments into useful applications, from data preparation and evaluation to inference pipelines and deployment.
-
-`AI Engineering` `Data Pipelines` `Model Evaluation` `Inference Optimization` `Model Deployment` `MLOps` `Reproducible Experiments` `Applied Machine Learning`
-
-### 05 / Applied AI & software development
-
-Building practical AI systems while strengthening my foundations in reliable software design, networking, and implementation.
-
-`Applied AI` `AI Systems` `C++` `Algorithms & Data Structures` `Object-Oriented Programming` `Software Engineering` `Real-Time Systems`
+**Applied AI & Software Development** · `AI Systems` `C++` `Algorithms & Data Structures` `Real-Time Systems`
 
 <!-- SELECTED WORK
 Place this section above Research & Publications after adding real repositories.
